@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 75 / RESET — 75-Day Habit Challenge
 
 A professional, animated habit-tracking web application built with **React, Node.js, and Express.js**.
@@ -606,3 +607,7 @@ These are intentionally outside the scope of the current no-database implementat
 # License
 
 This project is created for educational and evaluation purposes.
+=======
+# Assessment
+Online Assessment Test
+>>>>>>> c21d0f39e194562d50d282201dd1de2fc4c8e3b9
